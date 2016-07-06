@@ -1,11 +1,10 @@
 # npm Installer
 
 
-###Ever getting tierd of installing NPM modules?
 
 
 
-##### - Time for the Fast Way.
+### a NPM installer with GUI
 
 1. Just click the "**Server Folder**" button and locate you project folder
 2. Type in the "**NPM modules**" (you can type them after each other)
