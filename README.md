@@ -31,12 +31,5 @@ Keep me going :)
 
 
 
-==
-
-Changelog
-
-    1.0 - Offical release
-           (2016-07-06) 
-  
 
 
