@@ -7,9 +7,9 @@
 
 ##### - Time for the Fast Way.
 
-1. Just click the "**Server Folder**" button and locate you nodeJS project folder (NOT node_modules if you have one)
-2. Type in the "**NPM modules**" (and yes, you can type them after each other)
-3. Click "**Install module**" and **Confirm** installation
+1. Just click the "**Server Folder**" button and locate you project folder
+2. Type in the "**NPM modules**" (you can type them after each other)
+3. Click "**Install module**"
 
 ---
 
@@ -26,7 +26,7 @@ Keep me going :)
 ==
 
 
-![Alt text](https://github.com/aCo0o/npm_installer/blob/master/npmInstall.jpg?raw=true "npm Installer")
+![Alt text](https://github.com/aCo0o/npm_installer/blob/master/npm1.1.jpg?raw=true "npm Installer")
 
 
 
